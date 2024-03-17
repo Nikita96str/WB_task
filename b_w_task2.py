@@ -44,5 +44,4 @@ for repeat in range(t):
 print("Minimum number of cells that need to be repainted:")
 for key in result_dict:
     print(f"In row {key}: {result_dict[key]}")
-# wbbwwwbwbwbw
-# wbbwwwb
+
